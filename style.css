@@ -55,7 +55,7 @@ header nav ul li:hover {
 /* Hero Section */
 #hero {
   background-attachment: fixed;
-  background-image: url("../img/abi.PNG");
+  background-image: url("../img/hero.jpg");
   background-size: cover;
   width: 100%;
   height: 90vh;
