@@ -13,12 +13,7 @@ h2 {
 
 #hero .btn:hover {
   border: 3px solid;
-  animation-name: border-animate;
-  animation-duration: 1s;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
-}
-
+  animation: 1s border-animate infinite;
 }
 
 @keyframes show {
